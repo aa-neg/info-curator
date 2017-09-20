@@ -20,3 +20,10 @@ InfoCurator is a tool for:
 * gcp
 * github issue tracker
 * github project board
+* wiki (TBD, not github's defulat?)
+
+## Developing
+
+* [dotenv file](https://github.com/motdotla/dotenv)
+* nix package (+ Vagrantfile) for dev machine
+* [editorConfig](http://editorconfig.org/)
